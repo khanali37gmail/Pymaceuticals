@@ -3,6 +3,8 @@ Pymaceuticals-data
 Background
 
 I have just  joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+
+
 There has been a tremendous help from class youtube and other resources which has helped me to derive to this code. 
 
 
